@@ -1,0 +1,50 @@
+.login-fields{
+    margin-bottom: 20px;
+    width: auto;
+}
+.login-form{
+     padding: 20px;
+     width: 100%;
+     border: 1px solid #ffffff;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     border-radius: 4px;
+
+}
+.chat-icon{
+    margin-left: 10px;
+    color: #007bff !important;
+    font-size: 3rem !important;
+}
+.login-main-container{
+    width: 400px;
+}
+.login-btn{
+    margin-bottom: 20px !important;
+}
+.login-btn:focus{
+    outline: none !important;
+}
+.login-form>h2{
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.advice-container{
+    text-align: center;
+}
+.advice-container>p{
+    font-size: 17px;
+    font-family: sans-serif;
+}
+.link-style{
+    text-decoration: none !important;
+    color: black !important;
+}
+.link-style:hover{
+    color: #3333FF !important;
+}
